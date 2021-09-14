@@ -43,7 +43,7 @@ def run():
     Additional_Info_In_flight_meal_not_included = 0
     Additional_Info_No_check_in_baggage_included = 0
 
-    col1, col2 , col3 = st.beta_columns(3)
+    col1, col2 , col3 = st.columns(3)
 
     with col1:
         # Total stop
