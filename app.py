@@ -10,7 +10,7 @@ def run():
     img1 = img1.resize((300, 200))
     st.image(img1, use_column_width=False)
     st.title("Flight Price Prediction using Machine Learning")
-    st.subheader('Please Enter the following details to Predict Loan Eligibility Status')
+    st.subheader('Please Enter the following details to Predict Flight Price')
 
 
      # ------ Airlines----------
