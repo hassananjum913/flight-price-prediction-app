@@ -281,6 +281,6 @@
 
 # WEB APPLICATION HOSTED USING STREAMLIT-SHARE
 
-# Link Streamli-share-cloud: <https://share.streamlit.io/hassananjum913/flight-price-prediction-app/app.py>
+# Link Streamlit-share-cloud: <https://share.streamlit.io/hassananjum913/flight-price-prediction-app/app.py>
 # Link GCP cloud: https://fpp-streamlit-app.du.r.appspot.com/
 
